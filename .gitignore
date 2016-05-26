@@ -141,3 +141,5 @@ ENV/
 
 # Other misc files
 todo.md
+
+.DS_Store
